@@ -10,7 +10,7 @@
 
 <h2 >👨🏻‍💻 About Me:</h2>
 
--   👷 I'm a System technologist from <a href="https://www.linkedin.com/school/universidad-del-valle/">Universidad del valle</a>
+-   👷 I'm a System technologist from <a href="https://www.linkedin.com/school/universidad-del-valle/">Universidad del Valle</a>
 -   🧑🏽 I like programming , design and nature
 -   🌱 I'm always want to learn new things
 -   ❓ Ask me about Java/Angular/SpringBoot/TypeScript
@@ -31,6 +31,7 @@
       <td align="center">
       <img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/java.png"/>
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/spring.png"/>
+	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/angular.svg"/>
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/typescript.png"/>
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/javascript.svg"/>
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/html.png"/> 
@@ -46,7 +47,6 @@
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/sass.png"/>
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/github.png"/>
 	<img width="50px" src="https://github.com/giorman/giorman/blob/main/assets/npm.png"/> </tr>
-	
   </tbody>
   
 </table>
